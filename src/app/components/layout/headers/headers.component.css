@@ -1,5 +1,5 @@
 .header{
-    background: #333;
+    background:mediumblue;
     color: #fff;
     text-align: center;
     padding: 10px;
@@ -8,4 +8,9 @@
 .header a {
     color: #fff;
     text-decoration: none;
+}
+p{
+    background-color : cornflowerblue;
+    margin-left: 700px;
+    margin-right: 700px;
 }
